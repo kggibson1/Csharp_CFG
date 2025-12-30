@@ -1,0 +1,15 @@
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\bin\Debug\net10.0\BudgetTrackerApp.exe
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\bin\Debug\net10.0\BudgetTrackerApp.deps.json
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\bin\Debug\net10.0\BudgetTrackerApp.runtimeconfig.json
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\bin\Debug\net10.0\BudgetTrackerApp.dll
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\bin\Debug\net10.0\BudgetTrackerApp.pdb
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.AssemblyInfoInputs.cache
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.AssemblyInfo.cs
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.sourcelink.json
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.dll
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\refint\BudgetTrackerApp.dll
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.pdb
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\BudgetTrackerApp.genruntimeconfig.cache
+C:\Users\Kenzie\Documents\Education\Coding\C#\module_exercises\BudgetTrackerApp\obj\Debug\net10.0\ref\BudgetTrackerApp.dll
