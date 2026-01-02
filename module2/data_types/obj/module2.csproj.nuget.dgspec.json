@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2.csproj": {}
+    "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2\\module2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2.csproj": {
+    "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2\\module2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2.csproj",
+        "projectUniqueName": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2\\module2.csproj",
         "projectName": "module2",
-        "projectPath": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2.csproj",
+        "projectPath": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2\\module2.csproj",
         "packagesPath": "C:\\Users\\Kenzie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\obj\\",
+        "outputPath": "C:\\Users\\Kenzie\\Documents\\Education\\Coding\\C#\\module2\\module2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kenzie\\AppData\\Roaming\\NuGet\\NuGet.Config"
