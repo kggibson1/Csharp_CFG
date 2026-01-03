@@ -63,7 +63,7 @@ else
     Console.WriteLine("You are over budget for both shopping and entertainment\n");
 }
 
-for (int i = 0; i < 10; i++)
-{
-    Console.WriteLine(i);
-}
+// for (int i = 0; i <= 10; i++)
+// {
+//     Console.WriteLine(i);
+// }
