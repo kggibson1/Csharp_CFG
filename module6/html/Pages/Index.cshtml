@@ -1,4 +1,6 @@
 ﻿@page
+
+@*This line links this razor page to the c# backend code in Index.cshtml.cs*@
 @model IndexModel
 @{
     ViewData["Title"] = "Home page";
@@ -72,3 +74,39 @@
     Can store images in wwwroot folder or you can link to an external image
 *@
 <img src="https://i.pinimg.com/originals/69/fe/fa/69fefa832971fe6bd318226aea9557b6.gif" alt="huh cat">
+
+@*Post tells us how the data will be sent to the server*@
+<form method = "post">
+
+    @*The type of data we want submitted from the form*@
+    <label>Username: </label> @*Prompt for user*@
+    <input type="text">
+
+    <label>Password: </label> @*Prompt for user*@
+    <input type="password">
+
+    <label>Subscribe to newsletter? </label> @*Prompt for user*@
+    <input type="checkbox">
+
+    <label>Date of birth </label> @*Prompt for user*@
+    <input type="date">
+
+    @*When this button is clicked submit all of the data to the server*@
+    <button type = "submit">Submit</button>
+</form>
+
+<div>
+    <form method = "post">
+        <div>
+            <label for="username">Username: </label> @*id in the input matches it to this label*@
+            <input type="text" id="username" name="Username" required /> 
+        </div>
+        <div>
+            <label for="newsletter">Subscribe to our newsletter?  </label> @*id in the input matches it to this label*@
+            <input type="checkbox" id="newsletter" name="Newsletter" required /> 
+        </div>
+        <div>
+            <button type = "submit">Submit</button>
+        </div>
+    </form>
+</div>

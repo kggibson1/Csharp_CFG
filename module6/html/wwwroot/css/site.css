@@ -2,6 +2,7 @@ html {
   font-size: 14px;
 }
 
+/*Adjusts font size if screen size if larger*/
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -28,4 +29,16 @@ body {
 
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
+}
+
+/*Will style ALL h1 elements*/
+h1{
+  color:#590a7e;
+  font-family: "Helvetica";
+}
+
+/*Will style ALL h2 elements*/
+h2{
+  font-size: 50px;
+  margin: 50px; /*Adds pixels on the lhs of the text?*/
 }
