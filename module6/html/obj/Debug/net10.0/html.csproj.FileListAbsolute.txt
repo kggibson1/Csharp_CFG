@@ -95,4 +95,4 @@ C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\ref
 C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\html.pdb
 C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\html.genruntimeconfig.cache
 C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\ref\html.dll
-C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\compressed\f6ff5m7u3n-{0}-kyekstaloz-kyekstaloz.gz
+C:\Users\Kenzie\Documents\Education\Coding\C#\module6\html\obj\Debug\net10.0\compressed\f6ff5m7u3n-{0}-zksk3ur437-zksk3ur437.gz
