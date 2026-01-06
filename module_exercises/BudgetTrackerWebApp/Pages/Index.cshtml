@@ -9,8 +9,64 @@
     ViewData["Title"] = "Home page";
 }
 
-@*HTML*@
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@*Create heading*@
+<h1>Budget Tracker</h1>
+
+@*Create form*@
+<form method = "post">
+    
+    @*
+    This method works but asp-for is better as its the Razor sheets method of connecting things
+    strong typing, automatic binding, and validation instead of relying on matching strings.
+
+    <div>
+        <label for = "Expense1">Expense 1:</label>
+        <input type="number" id= "Expense1" name="expense1">
+
+        <label for = "Expense2">Expense 2:</label>
+        <input type="number" id= "Expense2" name="expense2">
+
+        <label for = "Expense3">Expense 3:</label>
+        <input type="number" id= "Expense3" name="expense3">
+
+        <label for = "Expense4">Expense 4:</label>
+        <input type="number" id= "Expense4" name="expense4">
+
+        <label for = "Expense5">Expense 5:</label>
+        <input type="number" id= "Expense5" name="expense5">
+    </div>
+    *@
+
+    
+    <div>
+        <label asp-for="Expense1">Expense 1:</label>
+        <input type="number" asp-for="Expense1">
+    </div>
+
+    <div>
+        <label asp-for="Expense2">Expense 2:</label>
+        <input type="number" asp-for="Expense2">
+    </div>  
+
+    <div>
+        <label asp-for="Expense3">Expense 3:</label>
+        <input type="number" asp-for="Expense3">
+    </div>
+
+    <div>
+        <label asp-for="Expense4">Expense 4:</label>
+        <input type="number" asp-for="Expense4">
+    </div>
+
+    <div>
+        <label asp-for="Expense5">Expense 5:</label>
+        <input type="number" asp-for="Expense5">
+    </div>
+
+    <div>
+        <button type = "submit">Calculate total</button>
+    </div>  
+    
+</form>
+
+<h2>Total Expenses: @Model.TotalExpenses</h2>

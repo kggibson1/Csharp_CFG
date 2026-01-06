@@ -98,7 +98,7 @@
 <div label>
     <form method = "post">
         <div>
-            <label for="username">Username: </label> @*id in the input matches it to this label*@
+            <label for="username">Username: </label> @*id in the input matches it to this label, Username attaches it to class in cshtml.cs*@
             <input type="text" id="username" name="Username" required /> @*required is needed to avoid an error if a user doesnt submit an answer and the form gets an null answer*@
         </div>
         <div>
@@ -113,7 +113,9 @@
 
 @*Checks if the form has been submitted, found in the .cshtml.cs file, runs the below code if true
 
-Links together the cshtml form data submission with the cshtml.cs class that binds the data - then things can be done with the data*@
+Links together the cshtml form data submission with the cshtml.cs class that binds the data - then things can be done with the data
+
+displays html elements if the form is submitted*@
 @if (Model.Submitted == true) 
 {
     <div>
